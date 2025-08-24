@@ -1,0 +1,440 @@
+[
+    {
+        "name": "لبن بلدي",
+        "price": 20,
+        "image": "milk.jpg",
+        "category": "منتجات الألبان",
+        "description": "قد يمثل أسعاراً لأحجام مختلفة (مثلاً 1/2 كجم)",
+        "isFeatured": true
+    },
+    {
+        "name": "زبادي فخار",
+        "price": 20,
+        "image": "yogurt-jar.jpg",
+        "category": "منتجات الألبان",
+        "isFeatured": false
+    },
+    {
+        "name": "زبادي بقري",
+        "price": 290,
+        "image": "cow-yogurt.jpg",
+        "category": "منتجات الألبان",
+        "description": "قد يكون السعر لوزن كبير أو صندوق",
+        "isFeatured": false
+    },
+    {
+        "name": "كريمة لباني",
+        "price": 220,
+        "image": "cream.jpg",
+        "category": "منتجات الألبان",
+        "description": "قد يكون السعر لوزن كبير",
+        "isFeatured": false
+    },
+    {
+        "name": "زبادي كاوبوي",
+        "price": 10,
+        "image": "cowboy-yogurt.jpg",
+        "category": "منتجات الألبان",
+        "isFeatured": false
+    },
+    {
+        "name": "جبنة فريش",
+        "price": 110,
+        "image": "fresh-cheese.jpg",
+        "category": "منتجات الألبان",
+        "isFeatured": true
+    },
+    {
+        "name": "زبدة",
+        "price": 320,
+        "image": "butter.jpg",
+        "category": "منتجات الألبان",
+        "description": "قد يكون السعر لوزن كبير",
+        "isFeatured": false
+    },
+    {
+        "name": "قشطة طبيعي",
+        "price": 320,
+        "image": "cream-natural.jpg",
+        "category": "منتجات الألبان",
+        "description": "قد يكون السعر لوزن كبير",
+        "isFeatured": false
+    },
+    {
+        "name": "جبنة ثلاجة طبيعي",
+        "price": 60,
+        "image": "refrigerator-cheese.jpg",
+        "category": "منتجات الألبان",
+        "description": "1/4 كيلو",
+        "isFeatured": false
+    },
+    {
+        "name": "جبنة موتزاريلا كاوبوي طبيعي",
+        "price": 75,
+        "image": "mozzarella.jpg",
+        "category": "منتجات الألبان",
+        "description": "1/4 كيلو",
+        "isFeatured": false
+    },
+    {
+        "name": "جبنة كريمي آفانتي",
+        "price": 80,
+        "image": "creamy-cheese.jpg",
+        "category": "منتجات الألبان",
+        "description": "1/4 كيلو",
+        "isFeatured": true
+    },
+    {
+        "name": "آفانتي سيريدر",
+        "price": 35,
+        "image": "cheddar-avanti.jpg",
+        "category": "منتجات الألبان",
+        "isFeatured": false
+    },
+    {
+        "name": "فلمنك هولندي أصلي",
+        "price": 180,
+        "image": "dutch-cheese.jpg",
+        "category": "منتجات الألبان",
+        "isFeatured": false
+    },
+    {
+        "name": "جبنة ريكفورد مستوردة",
+        "price": 185,
+        "image": "imported-cheese.jpg",
+        "category": "منتجات الألبان",
+        "isFeatured": false
+    },
+    {
+        "name": "جبنة جودا",
+        "price": 175,
+        "image": "gouda-cheese.jpg",
+        "category": "منتجات الألبان",
+        "isFeatured": false
+    },
+    {
+        "name": "آفانتي فيتا يوناني",
+        "price": 115,
+        "image": "feta-greek.jpg",
+        "category": "منتجات الألبان",
+        "isFeatured": true
+    },
+    {
+        "name": "آفانتي جبنة رومي",
+        "price": 115,
+        "image": "romi-cheese.jpg",
+        "category": "منتجات الألبان",
+        "isFeatured": false
+    },
+    {
+        "name": "آفانتي إسطنبولي",
+        "price": 34,
+        "image": "istanbul-cheese.jpg",
+        "category": "منتجات الألبان",
+        "isFeatured": false
+    },
+    {
+        "name": "آفانتي خشانة",
+        "price": 150,
+        "image": "khashana-cheese.jpg",
+        "category": "منتجات الألبان",
+        "isFeatured": false
+    },
+    {
+        "name": "جبنة شيدر طبيعي",
+        "price": 165,
+        "image": "cheddar-natural.jpg",
+        "category": "منتجات الألبان",
+        "isFeatured": false
+    },
+    {
+        "name": "سطلة مش",
+        "price": 35,
+        "image": "mish-bucket.jpg",
+        "category": "منتجات الألبان",
+        "isFeatured": true
+    },
+    {
+        "name": "تخاريش فريش",
+        "price": 37,
+        "image": "fresh-takhareesh.jpg",
+        "category": "منتجات الألبان",
+        "isFeatured": false
+    },
+    {
+        "name": "لغاليغو مش",
+        "price": 25,
+        "image": "lagaligo-mish.jpg",
+        "category": "منتجات الألبان",
+        "isFeatured": false
+    },
+    {
+        "name": "مش بلدي",
+        "price": 50,
+        "image": "mish-baladi.jpg",
+        "category": "منتجات الألبان",
+        "isFeatured": false
+    },
+    {
+        "name": "بيض أبيض",
+        "price": 5.5,
+        "image": "white-egg.jpg",
+        "category": "منتجات البيض",
+        "isFeatured": false
+    },
+    {
+        "name": "بيض أحمر",
+        "price": 6.0,
+        "image": "red-egg.jpg",
+        "category": "منتجات البيض",
+        "isFeatured": true
+    },
+    {
+        "name": "بيض بلدي",
+        "price": 5.5,
+        "image": "country-egg.jpg",
+        "category": "منتجات البيض",
+        "isFeatured": false
+    },
+    {
+        "name": "كرتونة بيض أبيض 30 واحدة",
+        "price": 160,
+        "image": "white-egg-carton.jpg",
+        "category": "منتجات البيض",
+        "isFeatured": false
+    },
+    {
+        "name": "كرتونة بيض أحمر 30 واحدة",
+        "price": 165,
+        "image": "red-egg-carton.jpg",
+        "category": "منتجات البيض",
+        "isFeatured": false
+    },
+    {
+        "name": "كرتونة بيض بلدي 30 واحدة",
+        "price": 155,
+        "image": "country-egg-carton.jpg",
+        "category": "منتجات البيض",
+        "isFeatured": false
+    },
+    {
+        "name": "علبة 10 أحمر",
+        "price": 79,
+        "image": "red-egg-pack-10.jpg",
+        "category": "منتجات البيض",
+        "isFeatured": true
+    },
+    {
+        "name": "علبة 10 بلدي",
+        "price": 80,
+        "image": "country-egg-pack-10.jpg",
+        "category": "منتجات البيض",
+        "isFeatured": false
+    },
+    {
+        "name": "اللحيم سادة",
+        "price": 57,
+        "image": "plain-lahim.jpg",
+        "category": "منتجات اللانشون",
+        "isFeatured": false
+    },
+    {
+        "name": "اللحيم قطع بسطرمة",
+        "price": 75,
+        "image": "basturma-lahim.jpg",
+        "category": "منتجات اللانشون",
+        "isFeatured": false
+    },
+    {
+        "name": "فريش فارم مدخن",
+        "price": 123,
+        "image": "smoked-freshfarm.jpg",
+        "category": "منتجات اللانشون",
+        "isFeatured": false
+    },
+    {
+        "name": "فايدة فلفل",
+        "price": 70,
+        "image": "fayda-pepper.jpg",
+        "category": "منتجات اللانشون",
+        "isFeatured": true
+    },
+    {
+        "name": "فريش فارم رومي مدخن",
+        "price": 110,
+        "image": "smoked-romy-freshfarm.jpg",
+        "category": "منتجات اللانشون",
+        "isFeatured": false
+    },
+    {
+        "name": "اللحيم قطع لحم",
+        "price": 75,
+        "image": "beef-lahim.jpg",
+        "category": "منتجات اللانشون",
+        "isFeatured": false
+    },
+    {
+        "name": "فريش فارم قطع لحم",
+        "price": 104,
+        "image": "beef-pieces-freshfarm.jpg",
+        "category": "منتجات اللانشون",
+        "isFeatured": false
+    },
+    {
+        "name": "سلام حلواني",
+        "price": 130,
+        "image": "salam-halawani.jpg",
+        "category": "منتجات اللانشون",
+        "isFeatured": false
+    },
+    {
+        "name": "اللحيم فراخ",
+        "price": 50,
+        "image": "chicken-lahim.jpg",
+        "category": "منتجات اللانشون",
+        "isFeatured": true
+    },
+    {
+        "name": "لانشون فريش فارم بسطرمه",
+        "price": 104,
+        "image": "basturma-freshfarm-luncheon.jpg",
+        "category": "منتجات اللانشون",
+        "isFeatured": false
+    },
+    {
+        "name": "فريش فارم فراخ",
+        "price": 75,
+        "image": "chicken-freshfarm.jpg",
+        "category": "منتجات اللانشون",
+        "isFeatured": false
+    },
+    {
+        "name": "فريش فارم روستو حير",
+        "price": 114,
+        "image": "rosto-hair-freshfarm.jpg",
+        "category": "منتجات اللانشون",
+        "isFeatured": false
+    },
+    {
+        "name": "فريش فارم رومي بالجبنة",
+        "price": 94,
+        "image": "romy-cheese-freshfarm.jpg",
+        "category": "منتجات اللانشون",
+        "isFeatured": false
+    },
+    {
+        "name": "فريش فارم رومي سادة",
+        "price": 92,
+        "image": "plain-romy-freshfarm.jpg",
+        "category": "منتجات اللانشون",
+        "isFeatured": true
+    },
+    {
+        "name": "لانشون فايدة",
+        "price": 70,
+        "image": "fayda-luncheon.jpg",
+        "category": "منتجات اللانشون",
+        "isFeatured": false
+    },
+    {
+        "name": "سلطة لانشون",
+        "price": 38,
+        "image": "luncheon-salad.jpg",
+        "category": "منتجات اللانشون",
+        "isFeatured": false
+    },
+    {
+        "name": "بسطرمة",
+        "price": 163,
+        "image": "basturma.jpg",
+        "category": "منتجات اللانشون",
+        "isFeatured": false
+    },
+    {
+        "name": "فريش فارم خورند",
+        "price": 60,
+        "image": "khurand-freshfarm.jpg",
+        "category": "منتجات اللانشون",
+        "isFeatured": false
+    },
+    {
+        "name": "بان كيك ميكس",
+        "price": 100,
+        "image": "pancake-mix.jpg",
+        "category": "حلويات ووافل ومشروبات",
+        "description": "نوتيلا، أوريو، ريد فلفت، لوتس، بونيو، بسكتاشيو",
+        "isFeatured": true
+    },
+    {
+        "name": "ميني بان كيك ميكس",
+        "price": 70,
+        "image": "mini-pancake-mix.jpg",
+        "category": "حلويات ووافل ومشروبات",
+        "description": "نوتيلا، أوريو، ريد فلفت، لوتس، بونيو، بسكتاشيو",
+        "isFeatured": false
+    },
+    {
+        "name": "كريب فيوتشيني",
+        "price": 115,
+        "image": "crepe-fettuccine.jpg",
+        "category": "حلويات ووافل ومشروبات",
+        "description": "نوتيلا، بونيو، ميكس، لوتس، أوريو، بسكتاشيو + آيس كريم",
+        "isFeatured": false
+    },
+    {
+        "name": "طاجن",
+        "price": 50,
+        "image": "tajin.jpg",
+        "category": "حلويات ووافل ومشروبات",
+        "description": "نوتيلا، لوتس، كرميل، بسكتاشيو",
+        "isFeatured": false
+    },
+    {
+        "name": "طاجن كيندر",
+        "price": 70,
+        "image": "tajin-kinder.jpg",
+        "category": "حلويات ووافل ومشروبات",
+        "description": "كيندر، كيت كات، مالتيزرز",
+        "isFeatured": false
+    },
+    {
+        "name": "وافل أوريو، بونيو",
+        "price": 60,
+        "image": "waffle-oreo-bonju.jpg",
+        "category": "حلويات ووافل ومشروبات",
+        "description": "نوتيلا، كرمل",
+        "isFeatured": true
+    },
+    {
+        "name": "وافل لوتس، عسل، بسكتاشيو",
+        "price": 70,
+        "image": "waffle-lotus-honey.jpg",
+        "category": "حلويات ووافل ومشروبات",
+        "description": "لوتس، عسل، بسكتاشيو",
+        "isFeatured": false
+    },
+    {
+        "name": "وافل ريد فلفت",
+        "price": 100,
+        "image": "waffle-red-velvet.jpg",
+        "category": "حلويات ووافل ومشروبات",
+        "description": "ريد فلفت، كنافة، بسكتاشيو، كيندر، مالتيزرز، ميكس، كيت كات، فواكة، بونيو",
+        "isFeatured": false
+    },
+    {
+        "name": "وافل استيك",
+        "price": 30,
+        "image": "waffle-stick.jpg",
+        "category": "حلويات ووافل ومشروبات",
+        "description": "نوتيلا، ميكس، أوريو، بونيو، ريد فلفت، بسكتاشيو",
+        "isFeatured": false
+    },
+    {
+        "name": "دونتس",
+        "price": 20,
+        "image": "donuts.jpg",
+        "category": "حلويات ووافل ومشروبات",
+        "description": "نوتيلا، لوتس، كرميل، بسكتاشيو، وايت شوكليت",
+        "isFeatured": false
+    }
+]
